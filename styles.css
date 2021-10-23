@@ -48,7 +48,7 @@ body {
   background-color: #C8C6A7;
   margin: 0 ;
 width: 100%;
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .middle-container {}
@@ -69,12 +69,13 @@ width: 100%;
   top:10px;
 }
 .mount{
-  position:absolute;
-  top: 350px;
+  position: relative;
+  top: 34px;
   right: 5px;
   float: none;
   width: 100%;
   margin-right: 0;
+  margin-left: 0;
 }
 .bird {
   position: fixed;
@@ -82,7 +83,7 @@ width: 100%;
   top: 320px;
 }
 .dp{
-  width: 10%;
+  width: 25%;
 }
 .codepic{
   position: relative;
