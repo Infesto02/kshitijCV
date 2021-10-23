@@ -17,7 +17,7 @@ body {
    font-weight: normal;
 }
 .profile{
-  width: 70%;
+  width: 50%;
   margin: 0 auto ;
 }
 .head {
@@ -28,7 +28,7 @@ body {
   padding-top: 30px;
 }
 .skill-row{
-  width: 70%;
+  width: 50%;
   margin:0 auto auto auto;
   padding-bottom: 50px;
   text-align: left;
@@ -69,9 +69,9 @@ width: 100%;
   top:10px;
 }
 .mount{
-  position: relative;
-  top: 35px;
-  right: 30px;
+  position:absolute;
+  top: 350px;
+  right: 5px;
   float: none;
   width: 100%;
   margin-right: 0;
