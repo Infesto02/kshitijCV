@@ -17,7 +17,7 @@ body {
    font-weight: normal;
 }
 .profile{
-  width: 50%;
+  width: 70%;
   margin: 0 auto ;
 }
 .head {
@@ -28,7 +28,7 @@ body {
   padding-top: 30px;
 }
 .skill-row{
-  width: 50%;
+  width: 70%;
   margin:0 auto auto auto;
   padding-bottom: 50px;
   text-align: left;
@@ -74,6 +74,7 @@ width: 100%;
   right: 30px;
   float: none;
   width: 100%;
+  margin-right: 0;
 }
 .bird {
   position: fixed;
