@@ -16,19 +16,26 @@ body {
   color: #99A799;
    font-weight: normal;
 }
-
+.profile{
+  width: 50%;
+  margin: 0 auto ;
+}
 .head {
   font-size: 375%;
   ;
 }
 .skills{
-  padding: 20px;
+  padding-top: 30px;
 }
 .skill-row{
   width: 50%;
-  margin:0 auto 0 auto;
+  margin:0 auto auto auto;
+  padding-bottom: 50px;
   text-align: left;
   line-height: 2;
+}
+.head3{
+  width: auto;
 }
 .profile{
   padding: 20px;
@@ -39,8 +46,8 @@ body {
 /**************************container style************************/
 .top-container {
   background-color: #C8C6A7;
-  margin: 0;
-
+  margin: 0 ;
+width: 100%;
   padding-top: 100px;
 }
 
@@ -66,10 +73,11 @@ body {
   top: 35px;
   right: 30px;
   float: none;
+  width: 100%;
 }
 .bird {
   position: fixed;
-  right: 30px;
+  right: 70px;
   top: 320px;
 }
 .dp{
@@ -77,11 +85,13 @@ body {
 }
 .codepic{
   position: relative;
-  bottom:  40px;
+
   float: left;
   width: 25%;
 }
 .paintpic{
+   position: relative;
+  top: 20px;
 float: right;
   width: 25%;
 }
